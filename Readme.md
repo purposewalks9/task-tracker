@@ -72,5 +72,6 @@ Choose an option by typing its name (e.g., add task) and follow the prompts.
 This project is open-source and free to use under the MIT License.
 
 💡 Author
-https://github.com/purposewalks9/task-tracker.git
 Developed by @purposewalks9
+
+https://github.com/purposewalks9/task-tracker/blob/main/Readme.md
