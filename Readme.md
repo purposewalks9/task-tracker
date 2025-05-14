@@ -74,4 +74,5 @@ This project is open-source and free to use under the MIT License.
 💡 Author
 Developed by @purposewalks9
 
-https://github.com/purposewalks9/task-tracker/blob/main/Readme.md
+
+https://roadmap.sh/projects/task-tracker
